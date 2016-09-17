@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1394202054 source:a:\projects\the final ball strike\c_1i\ball_intelligency.c
+	"header.h"
+
+1394885359 a:\projects\the final ball strike\c_1i\header.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
+1394928208 source:a:\projects\the final ball strike\c_1i\border.c
+	"header.h"
+
+1394735202 source:a:\projects\the final ball strike\c_1i\computer_intelligency.c
+	"header.h"
+
+1394879770 source:a:\projects\the final ball strike\c_1i\exit_the_game.c
+	"header.h"
+
+1393623208 source:a:\projects\the final ball strike\c_1i\gotoxy.c
+	"header.h"
+
+1394035354 source:a:\projects\the final ball strike\c_1i\in_game_score.c
+	"header.h"
+
+1394924301 source:a:\projects\the final ball strike\c_1i\main.c
+	"header.h"
+
+1394875952 source:a:\projects\the final ball strike\c_1i\new_game.c
+	"header.h"
+
+1393623208 source:a:\projects\the final ball strike\c_1i\planks and ball.c
+	"header.h"
+
+1394924080 source:a:\projects\the final ball strike\c_1i\score.c
+	"header.h"
+
+1394884673 source:a:\projects\the final ball strike\c_1i\selection_loop.c
+	"header.h"
+
+1393671136 source:a:\projects\the final ball strike\c_1i\initialize all to zer0.c
+	"header.h"
+
+1394858451 source:a:\projects\the final ball strike\c_1i\score_database.c
+	"header.h"
+
+1394291045 source:a:\projects\the final ball strike\c_1i\instruction.c
+
+1393950400 source:i:\c_1i\ball_intelligency.c
+	"header.h"
+
+1394035638 i:\c_1i\header.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
+1393936550 source:i:\c_1i\border.c
+	"header.h"
+
+1394036194 source:i:\c_1i\computer_intelligency.c
+	"header.h"
+
+1394032812 source:i:\c_1i\exit_the_game.c
+	"header.h"
+
+1393623208 source:i:\c_1i\gotoxy.c
+	"header.h"
+
+1394035354 source:i:\c_1i\in_game_score.c
+	"header.h"
+
+1393671136 source:i:\c_1i\initialize all to zer0.c
+	"header.h"
+
+1393951466 source:i:\c_1i\instruction.c
+
+1394022902 source:i:\c_1i\main.c
+	"header.h"
+
+1394038642 source:i:\c_1i\new_game.c
+	"header.h"
+
+1393623208 source:i:\c_1i\planks and ball.c
+	"header.h"
+
+1393936512 source:i:\c_1i\score.c
+	"header.h"
+
+1393933230 source:i:\c_1i\score_database.c
+	"header.h"
+
+1394023382 source:i:\c_1i\selection_loop.c
+	"header.h"
+
+1394884841 source:a:\projects\the final ball strike\c_1i\load_credits.c
+
+1395005686 source:d:\proj_wrk\ball strike\c_1i\ball_intelligency.c
+	"header.h"
+
+1394931260 d:\proj_wrk\ball strike\c_1i\header.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
+1394974110 source:d:\proj_wrk\ball strike\c_1i\border.c
+	"header.h"
+
+1394781104 source:d:\proj_wrk\ball strike\c_1i\computer_intelligency.c
+	"header.h"
+
+1394925672 source:d:\proj_wrk\ball strike\c_1i\exit_the_game.c
+	"header.h"
+
+1393669108 source:d:\proj_wrk\ball strike\c_1i\gotoxy.c
+	"header.h"
+
+1394081254 source:d:\proj_wrk\ball strike\c_1i\in_game_score.c
+	"header.h"
+
+1393717036 source:d:\proj_wrk\ball strike\c_1i\initialize all to zer0.c
+	"header.h"
+
+1394336946 source:d:\proj_wrk\ball strike\c_1i\instruction.c
+
+1394930742 source:d:\proj_wrk\ball strike\c_1i\load_credits.c
+
+1394970202 source:d:\proj_wrk\ball strike\c_1i\main.c
+	"header.h"
+
+1394921854 source:d:\proj_wrk\ball strike\c_1i\new_game.c
+	"header.h"
+
+1393669108 source:d:\proj_wrk\ball strike\c_1i\planks and ball.c
+	"header.h"
+
+1394969982 source:d:\proj_wrk\ball strike\c_1i\score.c
+	"header.h"
+
+1394904352 source:d:\proj_wrk\ball strike\c_1i\score_database.c
+	"header.h"
+
+1394930574 source:d:\proj_wrk\ball strike\c_1i\selection_loop.c
+	"header.h"
+
